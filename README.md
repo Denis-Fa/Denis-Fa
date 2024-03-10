@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Header](https://github.com/Denis-Fa/Denis-Fa/blob/main/assets/47d3a03b320b0e77f741d401ff9bdcb2.gif)](https://github.com/Denis-Fa/Denis-Fa)
 
-<!--
-**Denis-Fa/Denis-Fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне
 
-Here are some ideas to get you started:
+Образование
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Социальные сети
+
+Тестовая документация
+
+Тестирование веб-приложений
+
+Тестирование мобильных приложений
+
+Работа с данными
+
+Работа с кодом
