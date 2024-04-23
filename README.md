@@ -41,3 +41,4 @@ Proxyman
 PostgreSQL, DBeaver
 
 Работа с кодом: 
+Wscode, Java, IDEA, Android Studio
